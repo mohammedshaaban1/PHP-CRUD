@@ -1,0 +1,31 @@
+<?php
+$msg = [
+    "blog" => "CRUD",
+    "Blog" => "CRUD",
+    "Logout" => "Logout",
+    "Edit post" => "Edit post",
+    "Login" => "Login",
+    "All posts" => "All posts",
+    "Add new post" => "Add new post",
+    "no post founded" => "no post founded",
+    "Email" => "Email",
+    "Password" => "Password",
+    "Title" => "Title",
+    "Body" => "Body",
+    "image" => "image",
+    "Submit" => "Submit",
+    "Show" => "Show",
+    "Edit" => "Edit",
+    "Back" => "Back",
+    "Delete" => "Delete",
+    "Actions" => "Actions",
+    "English" => "English",
+    "Arabic" => "العربية",
+    "Published_At" => "Published At",
+    "do you really want to delete post?" => "do you really want to delete post?",
+    "of" => "of",
+    "Please enter your email" => "Please enter your email",
+    "dir" => "ltr",
+    "no post founded" => "no post founded"
+
+];
